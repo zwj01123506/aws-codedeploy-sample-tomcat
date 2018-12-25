@@ -83,6 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Bespoke Suits for Dogs</h1>
+      <h1>狗狗的新装</h1>
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
